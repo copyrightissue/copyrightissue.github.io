@@ -1,1 +1,5 @@
 /* your styles go here */
+.resized-image {
+    width: 40% !important;    /* adjust as necessary */
+    height: auto !important;  /* maintains aspect ratio */
+}
